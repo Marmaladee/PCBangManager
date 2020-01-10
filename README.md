@@ -23,6 +23,6 @@ SpringBoot Exercise
    * test : Test 관련한 코드의 추가, 수정
    * chore : (코드의 수정 없이) 설정을 변경
 
-## **git commit message style**
-https://udacity.github.io/git-styleguide/
+ ## **git commit message style**
+  https://udacity.github.io/git-styleguide/
 
