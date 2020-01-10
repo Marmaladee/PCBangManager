@@ -17,6 +17,14 @@ https://udacity.github.io/git-styleguide/
   * body: 긴 설명이 필요한 경우에 작성합니다. 어떻게 했는지가 아니라, 무엇을 왜 했는지 작성합니다. 최대 75글자를 넘기지 않도록 합니다.
   * footer : issue tracker ID를 명시하고 싶은 경우에 작성합니다.
   
+  ### 타입
+   * feat : 새로운 기능 추가
+   * fix : 버그 수정
+   * docs : 문서의 수정
+   * style : (코드의 수정 없이) 스타일(style)만 변경(들여쓰기 같은 포맷이나 세미콜론을 빼먹은 경우)
+   * refactor : 코드를 리펙토링
+   * test : Test 관련한 코드의 추가, 수정
+   * chore : (코드의 수정 없이) 설정을 변경
 
 
 
