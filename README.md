@@ -1,10 +1,7 @@
 # PCBangManager
 SpringBoot Exercise
 
-## **git commit message style**
-https://udacity.github.io/git-styleguide/
-
- ### 메시지 구조
+## 메시지 구조
   * 커밋 메시지는 세가지 파트로 나누고 각 파트는 빈줄을 두어서 구분합나다.
 
     * type: subject
@@ -26,5 +23,6 @@ https://udacity.github.io/git-styleguide/
    * test : Test 관련한 코드의 추가, 수정
    * chore : (코드의 수정 없이) 설정을 변경
 
-
+## **git commit message style**
+https://udacity.github.io/git-styleguide/
 
