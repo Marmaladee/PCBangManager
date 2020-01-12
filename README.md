@@ -1,7 +1,14 @@
 # PCBangManager
 SpringBoot Exercise
 
-* 주제 : PC방 예약 관리 어플리케이션
+# For What?
+* PC방 예약 관리 어플리케이션
+Function
+1. 로그인
+2. 예약
+3. 적립/사용
+4. 결제
+5. 남은시간 보여주기
 
 BackEnd - SpringBoot + MySQL + Hibernate + JPA
 UI - js + HTML5 + CSS
