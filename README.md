@@ -1,6 +1,16 @@
 # PCBangManager
 SpringBoot Exercise
 
+* 주제 : PC방 예약 관리 어플리케이션
+
+BackEnd - SpringBoot + MySQL + Hibernate + JPA
+UI - js + HTML5 + CSS
+Test Framework - junit4 + postman
+Build - gradle
+CI/CD - github
+
+FLow : BE -> junit -> postman -> UI -> 추가기능(UI 꾸미기, OAuth?)
+
  ## **git commit message style**
   * 커밋 메시지는 세가지 파트로 나누고 각 파트는 빈줄을 두어서 구분합나다.
 
