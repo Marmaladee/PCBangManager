@@ -1,7 +1,7 @@
 # PCBangManager
 SpringBoot Exercise
 
-# For What?
+## For What?
 * PC방 예약 관리 어플리케이션
 
 Function
@@ -24,7 +24,7 @@ Function
  
 5. 남은시간 보여주기
 
-# 개발 순서
+## 개발 순서
 
 BackEnd - SpringBoot + MySQL + Hibernate + JPA
 UI - js + HTML5 + CSS
