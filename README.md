@@ -5,9 +5,22 @@ SpringBoot Exercise
 * PC방 예약 관리 어플리케이션
 Function
 1. 로그인
+ - 회원가입 / 탈퇴
+ - 로그인(id/pwd/시간 여부)
+ 
 2. 예약
+ - 중간시간/Expire 시간 설정
+  - 중간시간 이전에는 예약X
+  - 중간시간 ~ Expire 시간 사이에는 예약 O/연장 O
+  - Expire 시간 이후에는 예약 O / 연장 X
+  
 3. 적립/사용
+ - 포인트제도
+ - 시간으로 사용가능
+
 4. 결제
+ - 특정 금액에 대한 Signal을 값에 맵핑해서 시간 추가 or 삭제 기능
+ 
 5. 남은시간 보여주기
 
 BackEnd - SpringBoot + MySQL + Hibernate + JPA
