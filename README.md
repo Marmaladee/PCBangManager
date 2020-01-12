@@ -3,6 +3,7 @@ SpringBoot Exercise
 
 # For What?
 * PC방 예약 관리 어플리케이션
+
 Function
 1. 로그인
  - 회원가입 / 탈퇴
