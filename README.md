@@ -23,6 +23,8 @@ Function
  
 5. 남은시간 보여주기
 
+# 개발 순서
+
 BackEnd - SpringBoot + MySQL + Hibernate + JPA
 UI - js + HTML5 + CSS
 Test Framework - junit4 + postman
