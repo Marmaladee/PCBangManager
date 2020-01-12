@@ -57,5 +57,5 @@ FLow : BE -> junit -> postman -> UI -> 추가기능(UI 꾸미기, OAuth?)
    * chore : (코드의 수정 없이) 설정을 변경
 
  ## Refs
-  https://udacity.github.io/git-styleguide/
-
+  * Git Code Style : https://udacity.github.io/git-styleguide/
+  * Builder Pattern : https://johngrib.github.io/wiki/builder-pattern/  
